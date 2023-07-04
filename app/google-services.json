@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "322932143215",
+    "project_id": "travelands-firebase",
+    "storage_bucket": "travelands-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322932143215:android:9655d86341a1df3b63099a",
+        "android_client_info": {
+          "package_name": "com.travelands.pemesanantiket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322932143215-gmh2p4nf1lrhe59f7746itkntf9a51bf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travelands.pemesanantiket",
+            "certificate_hash": "8f62e06ca0f96ab1776686e24d07d028f429d1ee"
+          }
+        },
+        {
+          "client_id": "322932143215-0tb780k88sq3eih28hk8ng359dc2jv84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsHD_YIVv54PMHjf-H9rnDosKwq6v36xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322932143215-0tb780k88sq3eih28hk8ng359dc2jv84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

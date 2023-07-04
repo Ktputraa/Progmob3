@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Travelands</string>
+    <string-array name="daftar_kota">
+        <item>Semarang (SRG)</item>
+        <item>Surabaya (SUB)</item>
+        <item>Bali (DPS)</item>
+        <item>Jakarta (HLP)</item>
+    </string-array>
+
+    <string name="app_yes">Travelands</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+</resources>
